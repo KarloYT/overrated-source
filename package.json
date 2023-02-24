@@ -1,0 +1,16 @@
+{
+  "name": "overrated-discordjs",
+  "version": "0.0.1-FIRST",
+  "description": "This is the official Overrated discordjs bot by KarloDevelopingStudios which is a part of the everythingessentially development series ",
+  "main": "./source/bot.js",
+  "scripts": {
+    "start": "node .",
+    "restart": "node ."
+  },
+  "author": "Karlo Cavlovic",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
