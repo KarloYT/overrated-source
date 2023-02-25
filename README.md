@@ -1,5 +1,6 @@
-# overrated-source
-This is the official source code of the OverRated discord bot. 
-If you wish to add the bot to your server, [you can do it here](https://discord.com/api/oauth2/authorize?client_id=1078761997845413948&permissions=1642758794487&scope=bot%20applications.commands) <- Non-administrator permissions version 
+# OverRated - The next era of discord 
 
-If you would like to add the bot to your server, and giving it [administrator permission you can do it here](https://discord.com/api/oauth2/authorize?client_id=1078761997845413948&permissions=8&scope=bot%20applications.commands) <- Administrator permissions version 
+What is OverRated? OverRated is an discord which has 2 versions, one with JavaScript (djs) and Python (dpy). The JavaScript bot is currently under development, the python one just planned. Although in this repo some of the versions will be uploaded, as OverRated (copyright) is an open-source project. 
+
+# How to add OverRated? 
+[To add OverRated click here](https://discord.com/api/oauth2/authorize?client_id=1078761997845413948&permissions=8&scope=bot%20applications.commands) # Temporary the bot uses administrator permissions!!
